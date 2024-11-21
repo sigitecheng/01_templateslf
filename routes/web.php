@@ -4,7 +4,9 @@ use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('frontend.halamanutama.index');
+    return view('frontend.halamanutama.index', [
+        'title' => 'PT. Wan Indo Konsultan'
+    ]);
 });
 
 Route::get('/dashboard', function () {
