@@ -260,6 +260,7 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
                         </p>
                     </div>
                   </li>
+                  
                   <li>
                     <a style="color: #FFA500"
                       data-bs-toggle="collapse"
@@ -333,13 +334,41 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
                     </div>
                   </li>
 
+                  <li>
+                    <a style="color: #FFA500"
+                      data-bs-toggle="collapse"
+                      class="collapse"
+                      data-bs-target="#accordion-list-7"
+                    >
+                      <span style="color: #FFA500">07</span>
+                      Jasa Pelaksanaan Konstruksi
+                      <i class="bx bx-chevron-down icon-show"> </i>
+                      <i class="bx bx-chevron-up icon-close"></i>
+                    </a>
+                    <div
+                      id="accordion-list-7"
+                      class="collapse"
+                      data-bs-parent=".accordion-list"
+                    >
+                      <p style="text-align: justify;" >
+                        <strong>1. Perencanaan Bangunan Gedung</strong> <br> 
+                        <strong>2. Perencanaan Jalan & Jembatan</strong> <br>
+                        <strong>3. Perencanaan Bangunan Air</strong> <br>
+                        <strong>4. Konsultasi Dasar-dasar Perizinan Teknis</strong> <br> 
+                        <strong>5. Kajian Bangunan Sertifikat Laik Fungsi (SLF)</strong> <br> 
+                        <strong>6. Kajian Persetujuan Bangunan Gedung (PBG)</strong> 
+                      
+                      </p>
+                    </div>
+                  </li>
+
                 </ul>
               </div>
             </div>
 
             <div
               class="col-lg-5 align-items-stretch order-1 order-lg-2 img"
-              style="background-image: url('assets/img/why-us.png')"
+              style="background-image: url('/assets/gambar/banner/banner3.png')"
               data-aos="zoom-in"
               data-aos-delay="150"
             >
@@ -357,15 +386,15 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
             <div class="col-lg-3 col-md-6">
               <a href="index.php?page=search_company">
                 <div class="count-box">
-                  <i class="bi bi-building"></i>
+                  <i style="color: #FFA500" class="bi bi-building"></i>
                   <div>
                     <span
                       data-purecounter-start="0"
-                      data-purecounter-end="411"
+                      data-purecounter-end="89"
                       data-purecounter-duration="1"
                       class="purecounter"
                     ></span>
-                    <p>Company</p>
+                    <p style="color: gray;">Kajian Sertifikat Laik Fungsi</p>
                   </div>
                 </div>
               </a>
@@ -374,15 +403,15 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
             <div class="col-lg-3 col-md-6">
               <a href="index.php?page=search_student">
                 <div class="count-box">
-                  <i class="bi bi-people" style="color: #15be56"></i>
+                  <i class="bi bi-building" style="color: #FFA500;" ></i>
                   <div>
                     <span
                       data-purecounter-start="0"
-                      data-purecounter-end="6424"
+                      data-purecounter-end="24"
                       data-purecounter-duration="1"
                       class="purecounter"
                     ></span>
-                    <p>Student</p>
+                    <p style="color: grey">Kajian Persetujuan Bangunan Gedung</p>
                   </div>
                 </div>
               </a>
@@ -391,15 +420,16 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
             <div class="col-lg-3 col-md-6">
               <a href="index.php?page=search_job">
                 <div class="count-box">
-                  <i class="bi bi-card-list" style="color: #ee6c20"></i>
+                  <i class="fas fa-handshake" style="color: #FFA500;"></i>
+
                   <div>
                     <span
                       data-purecounter-start="0"
-                      data-purecounter-end="1"
+                      data-purecounter-end="23"
                       data-purecounter-duration="1"
                       class="purecounter"
                     ></span>
-                    <p>Internship Vacancies</p>
+                    <p style="color: grey;">Konstruksi <br> Mitra Kami</p>
                   </div>
                 </div>
               </a>
@@ -408,15 +438,16 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
             <div class="col-lg-3 col-md-6">
               <a href="index.php?page=search_job">
                 <div class="count-box">
-                  <i class="bi bi-list" style="color: #bb0852"></i>
+                  <i class="fas fa-file-alt" style="color: #FFA500;"></i>
+
                   <div>
                     <span
                       data-purecounter-start="0"
-                      data-purecounter-end="0"
+                      data-purecounter-end="56"
                       data-purecounter-duration="1"
                       class="purecounter"
                     ></span>
-                    <p>Jobs Vacancies</p>
+                    <p style="color: grey;" >Kajian Bangunan Gedung <br> PBG & SLF</p>
                   </div>
                 </div>
               </a>
@@ -430,7 +461,7 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
       <section id="testimonials" class="testimonials">
         <div class="container" data-aos="fade-up">
           <div class="section-title">
-            <h2>Feedback</h2>
+            <h2 style="color: #FFA500;">Staf Perusahaan</h2>
             <p>What they are saying about us</p>
           </div>
 
@@ -553,81 +584,98 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
       <section id="faq" class="faq section-bg">
         <div class="container" data-aos="fade-up">
           <div class="section-title">
-            <h2>Frequently Asked Questions</h2>
+            <h2 style="color: #FFA500;">Frequently Asked Questions</h2>
           </div>
 
           <div class="faq-list">
             <ul>
               <li data-aos="fade-up" data-aos-delay="100">
-                <i class="bx bx-help-circle icon-help"></i>
-                <a
+                <i style="color: #FFA500;" class="bx bx-help-circle icon-help"></i>
+                <a style="color: #FFA500;"
                   data-bs-toggle="collapse"
                   class="collapse"
                   data-bs-target="#faq-list-1"
                 >
-                  How to register intership
+                  Apa itu Sertifikat Laik Fungsi (SLF)?
                   <i class="bx bx-chevron-down icon-show"></i>
-                  <i class="bx bx-chevron-up icon-close"></i
+                  <i class="bx bx-chevron-up icon-close"></i>
                 ></a>
-                <div
-                  id="faq-list-1"
-                  class="collapse show"
-                  data-bs-parent=".faq-list"
-                >
+                <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                   <p>
-                    Please login first with the polybatam learning account,
-                    select the internship vacancy you want to apply, fill in the
-                    required data, wait for confirmation
+                    Sertifikat Laik Fungsi (SLF) adalah dokumen resmi yang diterbitkan oleh pemerintah untuk memastikan bahwa sebuah bangunan telah memenuhi standar keselamatan, kenyamanan, dan fungsi sesuai peraturan yang berlaku.
                   </p>
                 </div>
               </li>
               <li data-aos="fade-up" data-aos-delay="100">
-                <i class="bx bx-help-circle icon-help"></i>
-                <a
+                <i style="color: #FFA500;" class="bx bx-help-circle icon-help"></i>
+                <a style="color: #FFA500;"
                   data-bs-toggle="collapse"
                   class="collapse"
                   data-bs-target="#faq-list-2"
                 >
-                  How to login to Polibatam TalentHub
+                  Apa syarat utama untuk mendapatkan SLF?
                   <i class="bx bx-chevron-down icon-show"></i>
-                  <i class="bx bx-chevron-up icon-close"></i
+                  <i class="bx bx-chevron-up icon-close"></i>
                 ></a>
-                <div
-                  id="faq-list-2"
-                  class="collapse"
-                  data-bs-parent=".faq-list"
-                >
+                <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                   <p>
-                    Students can login using a learning account. For Industry,
-                    you can register first in the Register section, then wait
-                    for confirmation.
+                    Syarat utama meliputi laporan hasil pemeriksaan teknis, kelengkapan dokumen bangunan, dan kepatuhan terhadap regulasi keselamatan, struktur, dan lingkungan.
                   </p>
                 </div>
               </li>
               <li data-aos="fade-up" data-aos-delay="100">
-                <i class="bx bx-help-circle icon-help"></i>
-                <a
+                <i style="color: #FFA500;" class="bx bx-help-circle icon-help"></i>
+                <a style="color: #FFA500;"
                   data-bs-toggle="collapse"
                   class="collapse"
                   data-bs-target="#faq-list-3"
                 >
-                  How to Upload data to Polibatam TalentHub ?
-
+                  Siapa yang berhak mengajukan permohonan SLF?
                   <i class="bx bx-chevron-down icon-show"></i>
-                  <i class="bx bx-chevron-up icon-close"></i
+                  <i class="bx bx-chevron-up icon-close"></i>
                 ></a>
-                <div
-                  id="faq-list-3"
-                  class="collapse"
-                  data-bs-parent=".faq-list"
-                >
+                <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
                   <p>
-                    Go to the Profile page, from the Competence section, upload
-                    the required data.
+                    Pemilik bangunan atau pengelola bangunan dapat mengajukan permohonan SLF ke pemerintah daerah atau instansi terkait.
+                  </p>
+                </div>
+              </li>
+              <li data-aos="fade-up" data-aos-delay="100">
+                <i style="color: #FFA500;" class="bx bx-help-circle icon-help"></i>
+                <a style="color: #FFA500;"
+                  data-bs-toggle="collapse"
+                  class="collapse"
+                  data-bs-target="#faq-list-4"
+                >
+                  Berapa lama masa berlaku SLF?
+                  <i class="bx bx-chevron-down icon-show"></i>
+                  <i class="bx bx-chevron-up icon-close"></i>
+                ></a>
+                <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
+                  <p>  
+                    Masa berlaku SLF adalah 5 tahun untuk bangunan umum dan dapat diperpanjang setelah melalui pemeriksaan ulang, sesuai dengan ketentuan yang diatur dalam Peraturan Pemerintah (PP) Nomor 16 Tahun 2021 tentang Peraturan Pelaksanaan Undang-Undang Nomor 28 Tahun 2002 tentang Bangunan Gedung.  
+                  </p>
+                </div>
+              </li>
+              <li data-aos="fade-up" data-aos-delay="100">
+                <i style="color: #FFA500;" class="bx bx-help-circle icon-help"></i>
+                <a style="color: #FFA500;"
+                  data-bs-toggle="collapse"
+                  class="collapse"
+                  data-bs-target="#faq-list-5"
+                >
+                  Apa risiko jika bangunan tidak memiliki SLF?
+                  <i class="bx bx-chevron-down icon-show"></i>
+                  <i class="bx bx-chevron-up icon-close"></i>
+                ></a>
+                <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
+                  <p>
+                    Bangunan tanpa SLF dianggap ilegal dan dapat dikenakan sanksi administratif, denda, atau bahkan pembongkaran jika tidak sesuai standar keselamatan.
                   </p>
                 </div>
               </li>
             </ul>
+            
           </div>
         </div>
       </section>
@@ -637,7 +685,7 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
       <section id="contact" class="contact">
         <div class="container" data-aos="fade-up">
           <div class="section-title">
-            <h2>Contact Us</h2>
+            <h2 style="color: #FFA500;">Kontak Kami</h2>
           </div>
 
           <div class="row gy-4">
@@ -645,16 +693,16 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
               <div class="row gy-4">
                 <div class="col-md-6">
                   <div class="info-box">
-                    <i class="bi bi-geo-alt"></i>
-                    <h3>Address</h3>
-                    <p>Politeknik Negeri Batam<br />Batam, Kepulauan Riau</p>
+                    <i style="color: #FFA500;" class="bi bi-geo-alt"></i>
+                    <h3 style="color: #FFA500;">Alamat</h3>
+                    <p>PT. Wan Indo Konsultan<br />Jln. Raya Purwakarta, KP. Gembol Sari No 35 Kelurahan Kertamulya Kecamatan Padalarang, Kabupaten Bandung Barat Provinsi Jawa Barat</p>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="info-box">
-                    <i class="bi bi-telephone"></i>
-                    <h3>Call Us</h3>
-                    <p>+628 888888<br />+628 8888888</p>
+                    <i style="color: #FFA500;" class="bi bi-telephone"></i>
+                    <h3 style="color: #FFA500;">Telepn</h3>
+                    <p>(022) 667993<br />082129208716</p>
                   </div>
                 </div>
                 <div class="col-md-6">
@@ -728,7 +776,8 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
                       Your message has been sent. Thank you!
                     </div>
 
-                    <button type="submit">Send Message</button>
+                    <button class="btn btn-warning" type="submit">Send Message</button>
+                  
                   </div>
                 </div>
               </form>
