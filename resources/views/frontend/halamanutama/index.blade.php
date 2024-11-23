@@ -25,7 +25,7 @@
           >
           <img
           width="60%"
-          src="/assets/gambar/banner/banner1.jpg"
+          src="/assets/gambar/banner/banner1.png"
           class="img-fluid animated"
           alt=""
           style="float: right;"
@@ -179,26 +179,27 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
             >
               <div class="content">
                 <h3>
-                  <strong>Why</strong>
-                  Polibatam TalentHub
+                  <strong></strong>
+                  <i class="fas fa-cogs" style="color: #FFA500; margin-right: 8px; font-size:24px;"></i>
+<span style="color: #FFA500; font-size:30px;">Produk Layanan Kami</span>
+
                 </h3>
-                <p>
-                  Polibatam TalentHub is a platform that bridge students and
-                  company <br class="d-none d-md-block" />
-                  to find the best talent for their company.
+                <p style="text-align: justify;">
+                  PT. Wan Indo Konsultan adalah platform yang menyelenggarakan produk hukum tentang bangunan gedung untuk membantu perusahaan dalam memenuhi kebutuhan regulasi dan kepatuhan terkait konstruksi.
                 </p>
+                
               </div>
 
               <div class="accordion-list">
                 <ul>
                   <li>
-                    <a
+                    <a style="color: #FFA500"
                       data-bs-toggle="collapse"
                       class="collapse"
                       data-bs-target="#accordion-list-1"
                     >
-                      <span>01</span>
-                      Accomodate Industry
+                      <span style="color: #FFA500">01</span>
+                      Perencanaan Arsitektur
                       <i class="bx bx-chevron-down icon-show"> </i>
                       <i class="bx bx-chevron-up icon-close"></i>
                     </a>
@@ -207,22 +208,20 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
                       class="collapse show"
                       data-bs-parent=".accordion-list"
                     >
-                      <p>
-                        Making it easier for the Industry to promote internships
-                        and job vacancies, as well as making it easier for the
-                        Industry to find the right candidate among Polibatam
-                        Students
+                      <p style="text-align: justify;">
+                      <strong>- Jasa </strong> Nasihat & Pra Desain Arsitektural <br>
+                      <strong>- Jasa </strong> Desain Arsitektural
                       </p>
                     </div>
                   </li>
                   <li>
-                    <a
+                    <a style="color: #FFA500"
                       data-bs-toggle="collapse"
                       class="collapse"
                       data-bs-target="#accordion-list-2"
                     >
-                      <span>02</span>
-                      Tracking Student Performance
+                      <span style="color: #FFA500">02</span>
+                      Perencanaan Rekayasa 
                       <i class="bx bx-chevron-down icon-show"> </i>
                       <i class="bx bx-chevron-up icon-close"></i>
                     </a>
@@ -231,21 +230,22 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
                       class="collapse"
                       data-bs-parent=".accordion-list"
                     >
-                      <p>
-                        Tracking student performance both in lectures (course
-                        completion) and outside lectures (Extracurricular and
-                        Independent Learning Activities)
+                      <p style="text-align: justify;">
+                       <strong>- Jasa </strong> Desain Rekayasa untuk Konstruksi Pondasi serta
+                       Struktur Bangunan <br>
+                       <strong>- Jasa </strong> Desain Rekayasa untuk Pekerjaan Teknik Sipil 
+                       Transportasi
                       </p>
                     </div>
                   </li>
                   <li>
-                    <a
+                    <a style="color: #FFA500"
                       data-bs-toggle="collapse"
                       class="collapse"
                       data-bs-target="#accordion-list-3"
                     >
-                      <span>03</span>
-                      Showing Student Portfolio
+                      <span style="color: #FFA500">03</span>
+                      Pengawasan Rekayasa
                       <i class="bx bx-chevron-down icon-show"> </i>
                       <i class="bx bx-chevron-up icon-close"></i>
                     </a>
@@ -254,20 +254,20 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
                       class="collapse"
                       data-bs-parent=".accordion-list"
                     >
-                      <p>
-                        Displays the portfolio of each student. Make it easy for
-                        the industry to find and select the best students.
-                      </p>
+                      <p style="text-align: justify;" >
+                        <strong>- Jasa</strong> Pengawas Pekerjaan Konstruksi Bangunan Gedung <br>
+                        <strong>- Jasa</strong> Pengawas Pekerjaan Konstruksi Teknik Sipil Transportasi
+                        </p>
                     </div>
                   </li>
                   <li>
-                    <a
+                    <a style="color: #FFA500"
                       data-bs-toggle="collapse"
                       class="collapse"
                       data-bs-target="#accordion-list-4"
                     >
-                      <span>04</span>
-                      Showing Alumni Portfolio
+                      <span style="color: #FFA500">04</span>
+                      Bidang Jasa Kosultan Non Konstruksi 
                       <i class="bx bx-chevron-down icon-show"> </i>
                       <i class="bx bx-chevron-up icon-close"></i>
                     </a>
@@ -276,13 +276,63 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
                       class="collapse"
                       data-bs-parent=".accordion-list"
                     >
-                      <p>
-                        Displays the portfolio of each alumni. Make it easy for
-                        the industry to find and select the best alumni from
-                        polibatam.
+                      <p style="text-align: justify;">
+                      <strong> 1. Bidang </strong> Pengembangan Pertanian & Pedesaaan <br>
+                      <strong> 2. Bidang </strong> Transportasi <br>
+                        <strong>3. Bidang </strong> Telematika <br>
+                        <strong>4. Bidang </strong> Pendidikan <br>
+                        <strong>5. Layanan </strong> Jasa Survey <br>
+                        <strong>6. Layanan </strong> Jasa Studi Penelitian & Bantuan Teknik <br>
+                        <strong>7. Jasa </strong> Khusus  
                       </p>
                     </div>
                   </li>
+
+                  <li>
+                    <a style="color: #FFA500"
+                      data-bs-toggle="collapse"
+                      class="collapse"
+                      data-bs-target="#accordion-list-5"
+                    >
+                      <span style="color: #FFA500">05</span>
+                      Persetujuan Bangunan Gedung 
+                      <i class="bx bx-chevron-down icon-show"> </i>
+                      <i class="bx bx-chevron-up icon-close"></i>
+                    </a>
+                    <div
+                      id="accordion-list-5"
+                      class="collapse"
+                      data-bs-parent=".accordion-list"
+                    >
+                      <p style="text-align: justify;" >
+                        <strong>Persetujuan Bangunan Gedung</strong> adalah proses administratif yang wajib dilakukan untuk mendapatkan izin dari pemerintah atau otoritas terkait sebelum melaksanakan pembangunan gedung. Proses ini melibatkan evaluasi desain dan perencanaan bangunan untuk memastikan kesesuaian dengan regulasi, standar keselamatan, dan peraturan zonasi yang berlaku. Persetujuan ini penting untuk memastikan bahwa proyek konstruksi memenuhi persyaratan hukum dan dapat dilaksanakan tanpa melanggar peraturan yang ada.
+                        </p>
+                    </div>
+                  </li>
+
+                  <li>
+                    <a style="color: #FFA500"
+                      data-bs-toggle="collapse"
+                      class="collapse"
+                      data-bs-target="#accordion-list-6"
+                    >
+                      <span style="color: #FFA500">06</span>
+                      Sertifikat Laik Fungsi
+                      <i class="bx bx-chevron-down icon-show"> </i>
+                      <i class="bx bx-chevron-up icon-close"></i>
+                    </a>
+                    <div
+                      id="accordion-list-6"
+                      class="collapse"
+                      data-bs-parent=".accordion-list"
+                    >
+                      <p style="text-align: justify;" >
+                        <strong>Sertifikat Laik Fungsi</strong> 
+                        adalah dokumen resmi yang diberikan oleh pemerintah setelah dilakukan pemeriksaan terhadap sebuah bangunan untuk memastikan bahwa bangunan tersebut aman, sesuai dengan perencanaan, dan memenuhi standar keselamatan serta kenyamanan bagi penghuninya. Sertifikat ini diterbitkan setelah bangunan selesai dibangun dan sebelum digunakan. SLF menjadi bukti bahwa bangunan tersebut layak untuk digunakan sesuai dengan fungsinya, serta memenuhi persyaratan teknis yang ditetapkan oleh peraturan daerah dan pemerintah.  
+                      </p>
+                    </div>
+                  </li>
+
                 </ul>
               </div>
             </div>
