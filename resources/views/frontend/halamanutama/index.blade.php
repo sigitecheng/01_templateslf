@@ -12,22 +12,25 @@
             data-aos="fade-up"
             data-aos-delay="200"
           >
-            <h1>Welcome to PT. Wan Indo Konsultan</h1>
-            <h2 class="text-muted">Connecting to Infrastructure</h2>
-            <div class="d-flex justify-content-center justify-content-lg-start">
+            <h1 style="color: #FFA500;">Welcome to PT. Wan Indo Konsultan</h1>
+            <h2 class="text-muted" style="color: slategrey;">Connecting to Infrastructure</h2>
+            {{-- <div class="d-flex justify-content-center justify-content-lg-start">
               <a href="#about" class="btn-get-started scrollto">Get Started</a>
-            </div>
+            </div> --}}
           </div>
           <div
             class="col-lg-6 order-1 order-lg-2 hero-img"
             data-aos="zoom-in"
             data-aos-delay="200"
           >
-            <img
-              src="assets/img/hero-img.png"
-              class="img-fluid animated"
-              alt=""
-            />
+          <img
+          width="60%"
+          src="/assets/gambar/banner/banner1.jpg"
+          class="img-fluid animated"
+          alt=""
+          style="float: right;"
+        />
+        
           </div>
         </div>
       </div>
@@ -84,31 +87,83 @@
       <section id="about" class="about">
         <div class="container" data-aos="fade-up">
           <div class="section-title">
-            <h2>About Us</h2>
+            <h2 style="color: #FFA500">Tentang Perusahaan</h2>
           </div>
 
           <div class="row content">
             <div class="col-lg-6">
-              <p>
-                Polibatam TalentHub is a platform that bridge students and
-                company to find the best talent for their company.
+            
+<p style="font-size:18px;">
+  <i class="fas fa-building" style="color: #FFA500; margin-right: 8px; font-size:18px;"></i>
+  <strong style="color: #FFA500;">Sekilas Perusahaan</strong>
+</p>
+              <p style="text-align: justify;">
+                Tanggung jawab utama dari kegiatan unit perusahaan dan
+                pelaksanaan proyek terletak pada Direktur. Staff manajemen
+                perusahaan terdiri dari tenaga ahli dari berbagai bidang seperti, 
+                perencanaan, administrasi, keuangan, serta supervisi. Struktur
+                Organisasi yang bersifat multidisipliner tersebut memungkinkan staff
+                manajemen dapat ditugaskan bekerja bersama dengan organisasi
+                klien kapan saja diperlukan, sehingga dapat menghasilkan komunikasi
+                yang efektif dan terbuka kesempatan untuk alih teknologi. Staff Proyek
+                kami mempunyai pendidikan dan pengalaman dalam berbagai fase 
+                kegiatan proyek sehingga menjamin proyek dapat diselesaikan sesuai
+                dengan spesifikasi untuk bidang layanan yang mereka tangan.
               </p>
-              <ul>
-                <li><i class="ri-check-double-line"></i> Easy to use</li>
-                <li>
-                  <i class="ri-check-double-line"></i> Easy to find talent
-                </li>
-                <li>
-                  <i class="ri-check-double-line"></i> Easy to find job & intern
-                </li>
-              </ul>
+
+              
+              <p style="font-size:18x;">
+                <i class="fas fa-history" style="color: #FFA500; margin-right: 8px; font-size:18px;"></i>
+                <strong style="color: #FFA500;">Sejarah Perusahaan</strong>
+              </p>
+              
+              <p style="text-align: justify;">
+              Pendirian PT. WAN INDO KONSULTAN, adalah sebuah
+Perusahaan Jasa Konsultansi yang mempunyai keinginan
+kuat dari beberapa profesionalisme akademisi sesuai
+kemapuan masing – masing dalam bidang akademisnya dan
+mempunyai keingin terus mengembangkan kreatifitasnya
+dalam sebuah etentitasprofeionalisme dalam profesi yang,
+didirikan pada tahun 2019 melalui Akte Pendirian Nomor 30
+Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
+              </p>
+              
             </div>
             <div class="col-lg-6 pt-4 pt-lg-0">
-              <p>
-                Tracing students Politeknik Negeri Batam performance competency
-                and simplify company to promote their jobs or internship vacancy
-                to students.
-              </p>
+              <ul>
+                <li><i class="fas fa-eye" style="color: #FFA500; margin-right:8px; font-size:18px;"></i><strong style="color: #FFA500; font-size:18px;"> Visi Perusahaan</strong></li>
+                <li>
+                  <i class="ri-check-double-line" style="color: #FFA500" ></i> Menjadi perusahaan inovatif, Kreatif dan berdaya saing.
+                </li>
+                {{-- <li>
+                  <i class="ri-check-double-line"></i> Easy to find job & intern
+                </li> --}}
+              </ul>
+              <br>
+              <ul>
+                <li><i class="fas fa-flag" style="color: #FFA500; margin-right:8px; font-size:18px;"></i><strong style="color: #FFA500; font-size:18px;"> Misi Perusahaan</strong></li>
+                
+                <li>
+                  <i class="ri-check-double-line" style="color: #FFA500" ></i> 
+                  Menjadi mitra pelanggan yang paling dapat diandalkandalam pengadaan jasa konsultansi sekaligus menjadi ahli yang paling dapat dipercaya dalam memberikan solusi terbaik mengenai produk dan jasa konsultansi.
+                </li>
+                
+                <li>
+                  <i class="ri-check-double-line" style="color: #FFA500" ></i> 
+                  Meningkatkan kualitas kinerja para karyawan secara berkesinambungan dalam lingkungan kerja yang semakin kondusif, sekaligus membantu mereka mencapai kesejahteraan.
+                </li>
+
+                <li>
+                  <i class="ri-check-double-line" style="color: #FFA500" ></i> 
+                  Menghadirkan kebanggaan di mata dunia melalui kontribusi nyata bagi kesejahteraan umum, masyarakat dan bangsa.
+                </li>
+
+                <li>
+                  <i class="ri-check-double-line" style="color: #FFA500" ></i> 
+                  Menjamin imbalan keuangan yang pasti serta memastikan pertumbuhan yang terus meningkat bagi investasi para pemegang saham.
+                </li>
+
+              </ul>
             </div>
           </div>
         </div>
@@ -635,63 +690,5 @@
     </main>
     <!-- End #main -->
 
-    <footer id="footer" class="footer">
-      <div class="footer-top">
-        <div class="container">
-          <div class="row gy-4">
-            <div class="col-lg-5 col-md-12 footer-info">
-              <a href="index.php" class="logo d-flex align-items-center">
-                <!-- <img src="assets/img/Comma.png" alt=""> -->
-                <img
-                  class="ml-2 ps-4"
-                  src="./assets/img/logo.png"
-                  alt=""
-                  style="transform: scale(2.5)"
-                />
-              </a>
-              <p>System Information Competency Students</p>
-              <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                <a href="#" class="instagram"
-                  ><i class="bi bi-instagram bx bxl-instagram"></i
-                ></a>
-                <a href="#" class="linkedin"
-                  ><i class="bi bi-linkedin bx bxl-linkedin"></i
-                ></a>
-              </div>
-            </div>
-
-            <div class="col-lg-2 col-6 footer-links">
-              <h4>Our Services</h4>
-              <ul>
-                <li>
-                  <i class="bi bi-chevron-right"></i>
-                  <a href="#">Internships</a>
-                </li>
-                <li>
-                  <i class="bi bi-chevron-right"></i> <a href="#">Jobs</a>
-                </li>
-                <li>
-                  <i class="bi bi-chevron-right"></i> <a href="#">Competency</a>
-                </li>
-              </ul>
-            </div>
-
-            <div
-              class="col-lg-3 col-md-12 footer-contact text-center text-md-start"
-            >
-              <h4>Contact Us</h4>
-              <p>
-                Politeknik Negeri Batam <br />
-                Batam, Kepulauan Riau<br />
-                Indonesia <br /><br />
-                <strong>Phone:</strong> +628 8888 888<br />
-                <strong>Email:</strong> email@email<br />
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
 
       @include('frontend.fitur.footer')
