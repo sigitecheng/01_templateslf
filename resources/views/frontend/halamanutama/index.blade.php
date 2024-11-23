@@ -707,15 +707,15 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
                 </div>
                 <div class="col-md-6">
                   <div class="info-box">
-                    <i class="bi bi-envelope"></i>
-                    <h3>Email Us</h3>
-                    <p>info@example.com<br />contact@example.com</p>
+                    <i style="color: #FFA500;" class="bi bi-envelope"></i>
+                    <h3 style="color: #FFA500;">Email Us</h3>
+                    <p>ptwanindokonsultan.bdg@gmail.com<br /></p>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="info-box">
-                    <i class="bi bi-clock"></i>
-                    <h3>Open Hours</h3>
+                    <i style="color: #FFA500;" class="bi bi-clock"></i>
+                    <h3 style="color: #FFA500;">Open Hours</h3>
                     <p>Monday - Friday<br />9:00AM - 05:00PM</p>
                   </div>
                 </div>
@@ -776,7 +776,11 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
                       Your message has been sent. Thank you!
                     </div>
 
-                    <button class="btn btn-warning" type="submit">Send Message</button>
+                    <div style="background-color: orange; padding: 10px; display: inline-block; font-size: 12px; border-radius: 5px;">
+                      <button class="btn" type="submit" style="background-color: orange; border: none; padding: 5px; font-size: 14px; color: white; cursor: pointer;">
+                          Send Message
+                      </button>
+                  </div>
                   
                   </div>
                 </div>

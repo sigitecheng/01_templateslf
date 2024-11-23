@@ -7,50 +7,87 @@
             <!-- <img src="assets/img/Comma.png" alt=""> -->
             <img
               class="ml-2 ps-4"
-              src="./assets/img/logo.png"
+              src="/assets/gambar/icon/iconwanindokonsultan.png"
               alt=""
               style="transform: scale(2.5)"
             />
-          </a>
-          <p>System Information Competency Students</p>
-          <div class="social-links mt-3">
+          </a> <br>
+          <p style="color: black;">PT. Wan Indo Konsultan</p>
+          <div class="social-links mt-3" style="color: black;">
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-            <a href="#" class="instagram"
-              ><i class="bi bi-instagram bx bxl-instagram"></i
-            ></a>
-            <a href="#" class="linkedin"
-              ><i class="bi bi-linkedin bx bxl-linkedin"></i
-            ></a>
-          </div>
+            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+            <a href="#" class="youtube"><i class="bi bi-youtube"></i></a>
+            <a href="#" class="whatsapp"><i class="bi bi-whatsapp"></i></a>
+        </div>
+        
         </div>
 
         <div class="col-lg-2 col-6 footer-links">
-          <h4>Our Services</h4>
+          <h4 style="color: #ffA500" >Layanan Kami</h4>
           <ul>
             <li>
               <i class="bi bi-chevron-right"></i>
-              <a href="#">Internships</a>
+              <a href="#">Beranda</a>
             </li>
+            
             <li>
-              <i class="bi bi-chevron-right"></i> <a href="#">Jobs</a>
+              <i class="bi bi-chevron-right"></i>
+              <a href="#">Tentang Kami</a>
             </li>
+            
             <li>
-              <i class="bi bi-chevron-right"></i> <a href="#">Competency</a>
+              <i class="bi bi-chevron-right"></i>
+              <a href="#">Jasa Kami</a>
             </li>
+            
+            <li>
+              <i class="bi bi-chevron-right"></i>
+              <a href="#">Produk Layanan</a>
+            </li>
+            
+            <li>
+              <i class="bi bi-chevron-right"></i>
+              <a href="#">Portfolio</a>
+            </li>
+            
+            <li>
+              <i class="bi bi-chevron-right"></i>
+              <a href="#">Mitra Kami</a>
+            </li>
+            
+            <li>
+              <i class="bi bi-chevron-right"></i>
+              <a href="#">Alur Permohonan SLF</a>
+            </li>
+            
+            <li>
+              <i class="bi bi-chevron-right"></i>
+              <a href="#">Alur Permohonan PBG</a>
+            </li>
+            
+            <li>
+              <i class="bi bi-chevron-right"></i>
+              <a href="#">Permohonan SLF</a>
+            </li>
+            
+            <li>
+              <i class="bi bi-chevron-right"></i>
+              <a href="#">Permohonan PBG</a>
+            </li>
+            
           </ul>
         </div>
 
         <div
           class="col-lg-3 col-md-12 footer-contact text-center text-md-start"
         >
-          <h4>Contact Us</h4>
+          <h4 style="color: #ffA500;">Kontak Kami</h4>
           <p>
-            Politeknik Negeri Batam <br />
-            Batam, Kepulauan Riau<br />
-            Indonesia <br /><br />
-            <strong>Phone:</strong> +628 8888 888<br />
-            <strong>Email:</strong> email@email<br />
+            Jln. Raya Purwakarta, KP. Gembol Sari No 35 Kelurahan Kertamulya Kecamatan Padalarang, Kabupaten Bandung Barat Provinsi Jawa Barat
+            <br><br><strong><i class="fas fa-phone mr-2"></i> Phone :</strong> <br> 082129208716<br /> <br>
+            <strong><i class="fas fa-envelope"></i> Email :</strong> <br> ptwanindokonsultan.bdg@gmail.com<br />
           </p>
         </div>
       </div>
@@ -61,11 +98,11 @@
 </footer>
 <!-- End Footer -->
 
-<div id="preloader"></div>
-<a
+<div style="background: #ffA500;" id="preloader"></div>
+<a style="color: #ffA500;"
   href="#"
   class="back-to-top d-flex align-items-center justify-content-center"
-  ><i class="bi bi-arrow-up-short"></i
+  ><i style="color: white;" class="bi bi-arrow-up-short"></i
 ></a>
 
 <!-- Vendor JS Files -->
