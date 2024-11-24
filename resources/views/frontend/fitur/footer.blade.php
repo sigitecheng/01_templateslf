@@ -105,6 +105,13 @@
   ><i style="color: white;" class="bi bi-arrow-up-short"></i
 ></a>
 
+<div class="" style="background: #ffA500; text-align: center; color: white; padding: 10px 0; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: #ffA500;"></div>
+  <a href="https://wa.me/6281321455855" style="color: white; text-decoration: none; font-weight: bold; position: relative; z-index: 1; font-size:12px;">
+      Developed By sarigit.com
+  </a>
+</div>
+
 <!-- Vendor JS Files -->
 <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="/assets/vendor/aos/aos.js"></script>

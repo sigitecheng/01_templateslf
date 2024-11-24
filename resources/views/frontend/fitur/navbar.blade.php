@@ -12,7 +12,7 @@
         <nav id="navbar" class="navbar">
           <ul>
             <li>
-              <a class="nav-link scrollto active" href="index.html#hero">
+              <a class="nav-link scrollto active" href="/">
                 <span style="color: #FFA500">Beranda</span>
               </a>
             </li>
@@ -22,8 +22,8 @@
                 <span style="color: #FFA500">Perusahaan</span> <i class="bi bi-chevron-down"></i>
               </a>
               <ul>
-                <li><a href="student.html"><span style="color: #FFA500">Tentang Kami</span></a></li>
-                <li><a href="student.html"><span style="color: #FFA500">Jasa Kami</span></a></li>
+                <li><a href="/"><span style="color: #FFA500">Tentang Kami</span></a></li>
+                <li><a href="/jasakami"><span style="color: #FFA500">Jasa Kami</span></a></li>
                 <li><a href="student.html"><span style="color: #FFA500">Produk</span></a></li>
                 <li><a href="student.html"><span style="color: #FFA500">Portfolio</span></a></li>
                 <li><a href="student.html"><span style="color: #FFA500">Mitra</span></a></li>

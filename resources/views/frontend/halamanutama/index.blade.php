@@ -25,7 +25,7 @@
           >
           <img
           width="60%"
-          src="/assets/gambar/banner/banner1.png"
+          {{-- src="/assets/gambar/banner/banner1.png" --}}
           class="img-fluid animated"
           alt=""
           style="float: right;"
@@ -42,42 +42,175 @@
       <section id="partners" class="partners section-bg">
         <div class="container">
           <div class="row justify-content-center" data-aos="zoom-in">
+            
+            
             <div
               class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
             >
               <img
-                src="assets/img/partners/logo-ilo.png"
+                src="/assets/gambar/mitra/1.png"
                 class="img-fluid"
                 alt=""
               />
             </div>
+            
+            
             <div
               class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
             >
               <img
-                src="assets/img/partners/logo-polibatam.png"
+                src="/assets/gambar/mitra/2.png"
                 class="img-fluid"
                 alt=""
               />
             </div>
+            
+            
             <div
               class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
             >
               <img
-                src="assets/img/partners/logo-sp.png"
+                src="/assets/gambar/mitra/3.png"
                 class="img-fluid"
                 alt=""
               />
             </div>
+            
+            
             <div
               class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
             >
               <img
-                src="assets/img/partners/logo-bej.png"
+                src="/assets/gambar/mitra/4.png"
                 class="img-fluid"
                 alt=""
               />
             </div>
+            
+            
+            <div
+              class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
+            >
+              <img
+                src="/assets/gambar/mitra/5.png"
+                class="img-fluid"
+                alt=""
+              />
+            </div>
+            
+            
+            <div
+              class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
+            >
+              <img
+                src="/assets/gambar/mitra/6.png"
+                class="img-fluid"
+                alt=""
+              />
+            </div>
+            
+            
+            <div
+              class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
+            >
+              <img
+                src="/assets/gambar/mitra/7.png"
+                class="img-fluid"
+                alt=""
+              />
+            </div>
+            
+            
+            <div
+              class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
+            >
+              <img
+                src="/assets/gambar/mitra/8.png"
+                class="img-fluid"
+                alt=""
+              />
+            </div>
+            
+            
+            <div
+              class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
+            >
+              <img
+                src="/assets/gambar/mitra/9.png"
+                class="img-fluid"
+                alt=""
+              />
+            </div>
+            
+            
+            <div
+              class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
+            >
+              <img
+                src="/assets/gambar/mitra/10.png"
+                class="img-fluid"
+                alt=""
+              />
+            </div>
+            
+            
+            <div
+              class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
+            >
+              <img
+                src="/assets/gambar/mitra/11.png"
+                class="img-fluid"
+                alt=""
+              />
+            </div>
+            
+            
+            <div
+              class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
+            >
+              <img
+                src="/assets/gambar/mitra/12.png"
+                class="img-fluid"
+                alt=""
+              />
+            </div>
+            
+            
+            <div
+              class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
+            >
+              <img
+                src="/assets/gambar/mitra/13.png"
+                class="img-fluid"
+                alt=""
+              />
+            </div>
+            
+            
+            <div
+              class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
+            >
+              <img
+                src="/assets/gambar/mitra/14.png"
+                class="img-fluid"
+                alt=""
+              />
+            </div>
+            
+            
+            <div
+              class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center"
+            >
+              <img
+                src="/assets/gambar/mitra/15.png"
+                class="img-fluid"
+                alt=""
+              />
+            </div>
+            
+            
+            
+            
           </div>
         </div>
       </section>

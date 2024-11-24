@@ -9,6 +9,12 @@ Route::get('/', function () {
     ]);
 });
 
+Route::get('/jasakami', function () {
+    return view('frontend.halamanutama.jasakami', [
+        'title' => 'Jasa Kami'
+    ]);
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
