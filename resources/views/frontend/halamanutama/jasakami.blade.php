@@ -39,8 +39,8 @@
                       <div class="card-body">
                         <div class="d-flex align-items-start mb-2">
                           <img style="width: 40%;"
-                            src="/assets/gambar/produk/konstruksi.png"
-                            alt="/assets/gambar/produk/konstruksi.png"
+                            src="/assets/gambar/produk/produkini.png"
+                            alt="/assets/gambar/produk/produkini.png"
                             width="50"
                           />
                           <div class="ms-3">
@@ -76,8 +76,8 @@
                       <div class="card-body">
                         <div class="d-flex align-items-start mb-2">
                           <img style="width: 40%;"
-                            src="/assets/gambar/produk/konstruksi.png"
-                            alt="/assets/gambar/produk/konstruksi.png"
+                            src="/assets/gambar/produk/produkini.png"
+                            alt="/assets/gambar/produk/produkini.png"
                             width="50"
                           />
                           <div class="ms-3">
@@ -113,8 +113,8 @@
                       <div class="card-body">
                         <div class="d-flex align-items-start mb-2">
                           <img style="width: 40%;"
-                            src="/assets/gambar/produk/konstruksi.png"
-                            alt="/assets/gambar/produk/konstruksi.png"
+                            src="/assets/gambar/produk/produkini.png"
+                            alt="/assets/gambar/produk/produkini.png"
                             width="50"
                           />
                           <div class="ms-3">
@@ -154,8 +154,8 @@
                       <div class="card-body">
                         <div class="d-flex align-items-start mb-2">
                           <img style="width: 40%;"
-                            src="/assets/gambar/produk/konstruksi.png"
-                            alt="/assets/gambar/produk/konstruksi.png"
+                            src="/assets/gambar/produk/produkini.png"
+                            alt="/assets/gambar/produk/produkini.png"
                             width="50"
                           />
                           <div class="ms-3">
@@ -209,8 +209,8 @@
                       <div class="card-body">
                         <div class="d-flex align-items-start mb-2">
                           <img style="width: 40%;"
-                            src="/assets/gambar/produk/konstruksi.png"
-                            alt="/assets/gambar/produk/konstruksi.png"
+                            src="/assets/gambar/produk/produkini.png"
+                            alt="/assets/gambar/produk/produkini.png"
                             width="50"
                           />
                           <div class="ms-3">
@@ -246,8 +246,8 @@
                       <div class="card-body">
                         <div class="d-flex align-items-start mb-2">
                           <img style="width: 40%;"
-                            src="/assets/gambar/produk/konstruksi.png"
-                            alt="/assets/gambar/produk/konstruksi.png"
+                            src="/assets/gambar/produk/produkini.png"
+                            alt="/assets/gambar/produk/produkini.png"
                             width="50"
                           />
                           <div class="ms-3">
@@ -283,8 +283,8 @@
       <div class="card-body">
         <div class="d-flex align-items-start mb-2">
           <img style="width: 40%;"
-            src="/assets/gambar/produk/konstruksi.png"
-            alt="/assets/gambar/produk/konstruksi.png"
+            src="/assets/gambar/produk/produkini.png"
+            alt="/assets/gambar/produk/produkini.png"
             width="50"
           />
           <div class="ms-3">
