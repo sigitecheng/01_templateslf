@@ -49,11 +49,11 @@
                 0.1px -0.1px 0 #000, 
                 -0.1px 0.1px 0 #000, 
                 0.1px 0.1px 0 #000;">Jasa Kami</span></a></li>
-                <li><a href="student.html"><span style="color: #FFA500; text-shadow: 
+                {{-- <li><a href="student.html"><span style="color: #FFA500; text-shadow: 
                 -0.1px 0.1px 0 #000, 
                 0.1px -0.1px 0 #000, 
                 -0.1px 0.1px 0 #000, 
-                0.1px 0.1px 0 #000;">Produk</span></a></li>
+                0.1px 0.1px 0 #000;">Produk</span></a></li> --}}
                 <li><a href="student.html"><span style="color: #FFA500; text-shadow: 
                 -0.1px 0.1px 0 #000, 
                 0.1px -0.1px 0 #000, 
