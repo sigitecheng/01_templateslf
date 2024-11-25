@@ -220,7 +220,11 @@
       <section id="about" class="about">
         <div class="container" data-aos="fade-up">
           <div class="section-title">
-            <h2 style="color: #FFA500">Tentang Perusahaan</h2>
+            <h2 style="color: #FFA500; text-shadow: 
+                -0.1px 0.1px 0 #000, 
+                0.1px -0.1px 0 #000, 
+                -0.1px 0.1px 0 #000, 
+                0.1px 0.1px 0 #000;">Tentang Perusahaan</h2>
           </div>
 
           <div class="row content">
@@ -228,7 +232,11 @@
             
 <p style="font-size:18px;">
   <i class="fas fa-building" style="color: #FFA500; margin-right: 8px; font-size:18px;"></i>
-  <strong style="color: #FFA500;">Sekilas Perusahaan</strong>
+  <strong style="color: #FFA500; text-shadow: 
+                -0.1px 0.1px 0 #000, 
+                0.1px -0.1px 0 #000, 
+                -0.1px 0.1px 0 #000, 
+                0.1px 0.1px 0 #000;">Sekilas Perusahaan</strong>
 </p>
               <p style="text-align: justify;">
                 Tanggung jawab utama dari kegiatan unit perusahaan dan
@@ -247,7 +255,11 @@
               
               <p style="font-size:18x;">
                 <i class="fas fa-history" style="color: #FFA500; margin-right: 8px; font-size:18px;"></i>
-                <strong style="color: #FFA500;">Sejarah Perusahaan</strong>
+                <strong style="color: #FFA500; text-shadow: 
+                -0.1px 0.1px 0 #000, 
+                0.1px -0.1px 0 #000, 
+                -0.1px 0.1px 0 #000, 
+                0.1px 0.1px 0 #000;">Sejarah Perusahaan</strong>
               </p>
               
               <p style="text-align: justify;">
@@ -264,7 +276,11 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
             </div>
             <div class="col-lg-6 pt-4 pt-lg-0">
               <ul>
-                <li><i class="fas fa-eye" style="color: #FFA500; margin-right:8px; font-size:18px;"></i><strong style="color: #FFA500; font-size:18px;"> Visi Perusahaan</strong></li>
+                <li><i class="fas fa-eye" style="color: #FFA500; margin-right:8px; font-size:18px;"></i><strong style="color: #FFA500; font-size:18px; text-shadow: 
+                -0.1px 0.1px 0 #000, 
+                0.1px -0.1px 0 #000, 
+                -0.1px 0.1px 0 #000, 
+                0.1px 0.1px 0 #000;"> Visi Perusahaan</strong></li>
                 <li>
                   <i class="ri-check-double-line" style="color: #FFA500" ></i> Menjadi perusahaan inovatif, Kreatif dan berdaya saing.
                 </li>
@@ -274,7 +290,11 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
               </ul>
               <br>
               <ul>
-                <li><i class="fas fa-flag" style="color: #FFA500; margin-right:8px; font-size:18px;"></i><strong style="color: #FFA500; font-size:18px;"> Misi Perusahaan</strong></li>
+                <li><i class="fas fa-flag" style="color: #FFA500; margin-right:8px; font-size:18px;"></i><strong style="color: #FFA500; font-size:18px; text-shadow: 
+                -0.1px 0.1px 0 #000, 
+                0.1px -0.1px 0 #000, 
+                -0.1px 0.1px 0 #000, 
+                0.1px 0.1px 0 #000;"> Misi Perusahaan</strong></li>
                 
                 <li>
                   <i class="ri-check-double-line" style="color: #FFA500" ></i> 
@@ -314,7 +334,11 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
                 <h3>
                   <strong></strong>
                   <i class="fas fa-cogs" style="color: #FFA500; margin-right: 8px; font-size:24px;"></i>
-<span style="color: #FFA500; font-size:30px;">Produk Layanan Kami</span>
+<span style="color: #FFA500; font-size:30px; text-shadow: 
+                -0.1px 0.1px 0 #000, 
+                0.1px -0.1px 0 #000, 
+                -0.1px 0.1px 0 #000, 
+                0.1px 0.1px 0 #000;">Produk Layanan Kami</span>
 
                 </h3>
                 <p style="text-align: justify;">
@@ -594,7 +618,11 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
       <section id="testimonials" class="testimonials">
         <div class="container" data-aos="fade-up">
           <div class="section-title">
-            <h2 style="color: #FFA500;">Staf Perusahaan</h2>
+            <h2 style="color: #FFA500; text-shadow: 
+                -0.1px 0.1px 0 #000, 
+                0.1px -0.1px 0 #000, 
+                -0.1px 0.1px 0 #000, 
+                0.1px 0.1px 0 #000;">Staf Perusahaan</h2>
             <p>What they are saying about us</p>
           </div>
 
@@ -717,7 +745,11 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
       <section id="faq" class="faq section-bg">
         <div class="container" data-aos="fade-up">
           <div class="section-title">
-            <h2 style="color: #FFA500;">Frequently Asked Questions</h2>
+            <h2 style="color: #FFA500; text-shadow: 
+                -0.1px 0.1px 0 #000, 
+                0.1px -0.1px 0 #000, 
+                -0.1px 0.1px 0 #000, 
+                0.1px 0.1px 0 #000;">Frequently Asked Questions</h2>
           </div>
 
           <div class="faq-list">
@@ -818,7 +850,11 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
       <section id="contact" class="contact">
         <div class="container" data-aos="fade-up">
           <div class="section-title">
-            <h2 style="color: #FFA500;">Kontak Kami</h2>
+            <h2 style="color: #FFA500; text-shadow: 
+                -0.1px 0.1px 0 #000, 
+                0.1px -0.1px 0 #000, 
+                -0.1px 0.1px 0 #000, 
+                0.1px 0.1px 0 #000;">Kontak Kami</h2>
           </div>
 
           <div class="row gy-4">
@@ -834,7 +870,7 @@ Tanggal 30 Juli 2019 oleh Notaris Diah Suryadi, SH., M.Kn
                 <div class="col-md-6">
                   <div class="info-box">
                     <i style="color: #FFA500;" class="bi bi-telephone"></i>
-                    <h3 style="color: #FFA500;">Telepn</h3>
+                    <h3 style="color: #FFA500;">Telepon</h3>
                     <p>(022) 667993<br />082129208716</p>
                   </div>
                 </div>

@@ -99,11 +99,14 @@
 <!-- End Footer -->
 
 <div style="background: #ffA500;" id="preloader"></div>
-<a style="color: #ffA500;"
+{{-- <a style="color: #ffA500;"
   href="#"
   class="back-to-top d-flex align-items-center justify-content-center"
   ><i style="color: white;" class="bi bi-arrow-up-short"></i
-></a>
+></a> --}}
+<div class="loader_bg">
+  <div class="loader"><img src="/assets/frontend/images/loading.gif" alt="#" /></div>
+</div>
 
 <div class="" style="background: #ffA500; text-align: center; color: white; padding: 10px 0; position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: #ffA500;"></div>
