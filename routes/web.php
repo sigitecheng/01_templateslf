@@ -15,6 +15,12 @@ Route::get('/jasakami', function () {
     ]);
 });
 
+Route::get('/porto', function () {
+    return view('frontend.halamanutama.portfolio', [
+        'title' => 'Portfolio Kami'
+    ]);
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

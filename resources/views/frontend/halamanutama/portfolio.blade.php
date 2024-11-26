@@ -21,7 +21,7 @@
     <main id="job" class="mt-5">
       <section class="container">
         <div class="section-title">
-          <h4 style="color: #ffa500">Jasa Layanan Perusahaan Kami</h4>
+          <h4 style="color: #ffa500">Portfolio Perusahaan Kami</h4>
         </div>
         <div class="container-fluid">
           <div class="row">
@@ -33,35 +33,35 @@
                 {{-- @foreach ($data as $item ) --}}
               
 {{-- ======================================================================= --}}
-                <div class="col-md-6">
+                <div class="col-md-4">
                   <a href="#">
                     <div class="card job-item mb-3">
                       <div class="card-body">
                         <div class="d-flex align-items-start mb-2">
                           <img style="width: 40%;"
-                            src="/assets/gambar/produk/produkini.png"
-                            alt="/assets/gambar/produk/produkini.png"
+                            src="/assets/gambar/produk/pekerjaan.png"
+                            alt="/assets/gambar/produk/pekerjaan.png"
                             width="50"
                           />
                           <div class="ms-3">
                             <p style="color:black;" class="job-title mb-0">
-                              <i class="fas fa-drafting-compass"></i> Perencanaan Arsitektur
+                              <i class="fas fa-drafting-compass"></i> Jasa Penerbitan SLF & PBG
                           </p>
                           <br>
                           <p href="company-detail.html" class="job-company">
-                              <i style="color: grey" class="fas fa-building"></i> <span style="color: grey;"> Jasa Nasihat & Pra Sarana Arsitektural </span> 
+                              <i style="color: grey" class="fas fa-building"></i> <span style="color: grey;"> PT. Wuling Indonesia </span> 
                               <br>
-                              <i style="color: grey;" class="fas fa-pencil-ruler"></i> <span style="color: grey;" > Jasa Desain Arsitektural </span>
+                              <i style="color: grey;" class="fas fa-pencil-ruler"></i> <span style="color: grey;" > No SLF : 644.2/06/13/SLF/PUPR/2020 </span>
                           </p>
                           </div>
                         </div>
-                        <div style="float: right" class="job-desc text-muted">
+                        {{-- <div style="float: right" class="job-desc text-muted">
                           <a href="https://wa.me/6282129208716" target="_blank">
                             <button class="btn btn-warning">
                                 <i class="fas fa-phone mr-2"></i> Contact Us
                             </button>
                           </a>                          
-                        </div>
+                        </div> --}}
                         </div>
                     </div>
                   </a>
@@ -70,14 +70,14 @@
                 
               
 {{-- ======================================================================= --}}
-                <div class="col-md-6">
+                <div class="col-md-4">
                   <a href="#">
                     <div class="card job-item mb-3">
                       <div class="card-body">
                         <div class="d-flex align-items-start mb-2">
                           <img style="width: 40%;"
-                            src="/assets/gambar/produk/produkini.png"
-                            alt="/assets/gambar/produk/produkini.png"
+                            src="/assets/gambar/produk/pekerjaan.png"
+                            alt="/assets/gambar/produk/pekerjaan.png"
                             width="50"
                           />
                           <div class="ms-3">
@@ -107,14 +107,14 @@
                 
               
 {{-- ======================================================================= --}}
-                <div class="col-md-6">
+                <div class="col-md-4">
                   <a href="#">
                     <div class="card job-item mb-3">
                       <div class="card-body">
                         <div class="d-flex align-items-start mb-2">
                           <img style="width: 40%;"
-                            src="/assets/gambar/produk/produkini.png"
-                            alt="/assets/gambar/produk/produkini.png"
+                            src="/assets/gambar/produk/pekerjaan.png"
+                            alt="/assets/gambar/produk/pekerjaan.png"
                             width="50"
                           />
                           <div class="ms-3">
@@ -146,46 +146,33 @@
                   </a>
                 </div>
 {{-- ======================================================================= --}}
-
+              
 {{-- ======================================================================= --}}
-                <div class="col-md-6">
+                <div class="col-md-4">
                   <a href="#">
                     <div class="card job-item mb-3">
                       <div class="card-body">
                         <div class="d-flex align-items-start mb-2">
                           <img style="width: 40%;"
-                            src="/assets/gambar/produk/produkini.png"
-                            alt="/assets/gambar/produk/produkini.png"
+                            src="/assets/gambar/produk/pekerjaan.png"
+                            alt="/assets/gambar/produk/pekerjaan.png"
                             width="50"
                           />
                           <div class="ms-3">
                             <p style="color:black;" class="job-title mb-0">
-                              <i class="fas fa-drafting-compass"></i> Bidang Jasa Konsultan Non Konstruksi
+                              <i class="fas fa-drafting-compass"></i> Pengawasan Rekayasa
                           </p>
                           <br>
-                          <p href="#" class="job-company">
-                            <i style="color: grey;" class="fas fa-seedling"></i> 
-                            <span style="color: grey;">Pengembangan Pertanian & Pedesaan</span>
-                            <br>
-                            <i style="color: grey;" class="fas fa-bus"></i> 
-                            <span style="color: grey;">Bidang Transportasi</span>
-                            <br>
-                            <i style="color: grey;" class="fas fa-satellite-dish"></i> 
-                            <span style="color: grey;">Bidang Telematika</span>
-                            <br>
-                            <i style="color: grey;" class="fas fa-graduation-cap"></i> 
-                            <span style="color: grey;">Bidang Pendidikan</span>
-                            <br>
-                            <i style="color: grey;" class="fas fa-map-marked-alt"></i> 
-                            <span style="color: grey;">Layanan Jasa Survey</span>
-                            <br>
-                            <i style="color: grey;" class="fas fa-flask"></i> 
-                            <span style="color: grey;">Layanan Jasa Studi Penelitian </span>
-                            <br>
-                            <i style="color: grey;" class="fas fa-tools"></i> 
-                            <span style="color: grey;">Jasa Khusus</span>
-                        </p>
-                        
+                          <p href="company-detail.html" class="job-company">
+                              <i style="color: grey" class="fas fa-building"></i> <span style="color: grey;"> 
+                                Jasa Pengawas Pekerjaan Konstruksi Bangunan Gedung
+                              </span> 
+                              <br>
+                              <i style="color: grey;" class="fas fa-pencil-ruler"></i> <span style="color: grey;" > 
+                                Jasa Pengawas Pekerjaan Konstruksi Teknik Sipil Transportasi
+
+                              </span>
+                          </p>
                           </div>
                         </div>
                         <div style="float: right" class="job-desc text-muted">
@@ -199,134 +186,6 @@
                     </div>
                   </a>
                 </div>
-{{-- ======================================================================= --}}
-                
-
-{{-- ======================================================================= --}}
-                <div class="col-md-6">
-                  <a href="#">
-                    <div class="card job-item mb-3">
-                      <div class="card-body">
-                        <div class="d-flex align-items-start mb-2">
-                          <img style="width: 40%;"
-                            src="/assets/gambar/produk/produkini.png"
-                            alt="/assets/gambar/produk/produkini.png"
-                            width="50"
-                          />
-                          <div class="ms-3">
-                            <p style="color:black;" class="job-title mb-0">
-                              <i class="fas fa-drafting-compass"></i> Persetujuan Bangunan Gedung
-                          </p>
-                          <br>
-                          <p style="text-align: justify; color:grey;" href="#" class="job-company">
-                            
-                            Persetujuan Bangunan Gedung adalah proses administratif untuk memperoleh izin dari pemerintah sebelum membangun gedung. Proses ini memastikan desain dan rencana bangunan sesuai dengan regulasi, standar keselamatan, dan peraturan zonasi yang berlaku.
-                        </p>
-                        
-                          </div>
-                        </div>
-                        <div style="float: right" class="job-desc text-muted">
-                          <a href="https://wa.me/6282129208716" target="_blank">
-                            <button class="btn btn-warning">
-                                <i class="fas fa-phone mr-2"></i> Contact Us
-                            </button>
-                          </a>                          
-                        </div>
-                        </div>
-                    </div>
-                  </a>
-                </div>
-{{-- ======================================================================= --}}
-                
-
-{{-- ======================================================================= --}}
-                <div class="col-md-6">
-                  <a href="#">
-                    <div class="card job-item mb-3">
-                      <div class="card-body">
-                        <div class="d-flex align-items-start mb-2">
-                          <img style="width: 40%;"
-                            src="/assets/gambar/produk/produkini.png"
-                            alt="/assets/gambar/produk/produkini.png"
-                            width="50"
-                          />
-                          <div class="ms-3">
-                            <p style="color:black;" class="job-title mb-0">
-                              <i class="fas fa-drafting-compass"></i> Sertifikat Laik Fungsi
-                          </p>
-                          <br>
-                          <p style="text-align: justify; color:grey;" href="#" class="job-company">
-                            
-                            Sertifikat Laik Fungsi (SLF) adalah dokumen resmi yang menyatakan sebuah bangunan aman, sesuai rencana, dan memenuhi standar keselamatan serta kenyamanan. SLF diterbitkan setelah pemeriksaan selesai dan menjadi bukti bangunan layak digunakan sesuai fungsinya.
-                          </p>
-                        
-                          </div>
-                        </div>
-                        <div style="float: right" class="job-desc text-muted">
-                          <a href="https://wa.me/6282129208716" target="_blank">
-                            <button class="btn btn-warning">
-                                <i class="fas fa-phone mr-2"></i> Contact Us
-                            </button>
-                          </a>                          
-                        </div>
-                        </div>
-                    </div>
-                  </a>
-                </div>
-{{-- ======================================================================= --}}
-                
-
-{{-- ======================================================================= --}}
-<div class="col-md-6">
-  <a href="#">
-    <div class="card job-item mb-3">
-      <div class="card-body">
-        <div class="d-flex align-items-start mb-2">
-          <img style="width: 40%;"
-            src="/assets/gambar/produk/produkini.png"
-            alt="/assets/gambar/produk/produkini.png"
-            width="50"
-          />
-          <div class="ms-3">
-            <p style="color:black;" class="job-title mb-0">
-              <i class="fas fa-drafting-compass"></i> Jasa Pelaksanaan Konstruksi
-          </p>
-          <br>
-          <p href="#" class="job-company">
-            <i style="color: grey;" class="fas fa-building"></i> 
-            <span style="color: grey;">Perencanaan Bangunan Gedung</span>
-            <br>
-            <i style="color: grey;" class="fas fa-road"></i> 
-            <span style="color: grey;">Perencanaan Jalan & Jembatan</span>
-            <br>
-            <i style="color: grey;" class="fas fa-water"></i> 
-            <span style="color: grey;">Perencanaan Bangunan Air</span>
-            <br>
-            <i style="color: grey;" class="fas fa-file-signature"></i> 
-            <span style="color: grey;">Konsultasi Dasar Dasar Perizinan Teknis</span>
-            <br>
-            <i style="color: grey;" class="fas fa-certificate"></i> 
-            <span style="color: grey;">Kajian Bangunan Sertifikat Laik Fungsi</span>
-            <br>
-            <i style="color: grey;" class="fas fa-check-circle"></i> 
-            <span style="color: grey;">Kajian Bangunan Persetujuan Bangunan Gedung</span>
-            <br>
-        </p>
-        
-        
-          </div>
-        </div>
-        <div style="float: right" class="job-desc text-muted">
-          <a href="https://wa.me/6282129208716" target="_blank">
-            <button class="btn btn-warning">
-                <i class="fas fa-phone mr-2"></i> Contact Us
-            </button>
-          </a>                          
-        </div>
-        </div>
-    </div>
-  </a>
-</div>
 {{-- ======================================================================= --}}
 
                 {{-- @endforeach --}}
